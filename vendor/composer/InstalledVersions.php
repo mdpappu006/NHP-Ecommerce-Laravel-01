@@ -24,12 +24,12 @@ class InstalledVersions
 private static $installed = array (
   'root' => 
   array (
-    'pretty_version' => 'v5.7.13',
-    'version' => '5.7.13.0',
+    'pretty_version' => 'dev-master',
+    'version' => 'dev-master',
     'aliases' => 
     array (
     ),
-    'reference' => NULL,
+    'reference' => 'f664e7ba0857e923c4ee82ed86af84c04fb03925',
     'name' => 'laravel/laravel',
   ),
   'versions' => 
@@ -424,12 +424,12 @@ private static $installed = array (
     ),
     'laravel/laravel' => 
     array (
-      'pretty_version' => 'v5.7.13',
-      'version' => '5.7.13.0',
+      'pretty_version' => 'dev-master',
+      'version' => 'dev-master',
       'aliases' => 
       array (
       ),
-      'reference' => NULL,
+      'reference' => 'f664e7ba0857e923c4ee82ed86af84c04fb03925',
     ),
     'laravel/nexmo-notification-channel' => 
     array (
@@ -789,8 +789,8 @@ private static $installed = array (
     array (
       'provided' => 
       array (
-        0 => '1.0',
-        1 => '1.0.0',
+        0 => '1.0.0',
+        1 => '1.0',
       ),
     ),
     'psr/simple-cache' => 
