@@ -6,11 +6,20 @@
     'aliases' => 
     array (
     ),
-    'reference' => 'f664e7ba0857e923c4ee82ed86af84c04fb03925',
+    'reference' => '027616231a6147a4dd2ac057144c8642bb7729f4',
     'name' => 'laravel/laravel',
   ),
   'versions' => 
   array (
+    'barryvdh/laravel-debugbar' => 
+    array (
+      'pretty_version' => 'v3.2.0',
+      'version' => '3.2.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '5b68f3972083a7eeec0d6f161962fcda71a127c0',
+    ),
     'beyondcode/laravel-dump-server' => 
     array (
       'pretty_version' => '1.3.0',
@@ -406,7 +415,7 @@
       'aliases' => 
       array (
       ),
-      'reference' => 'f664e7ba0857e923c4ee82ed86af84c04fb03925',
+      'reference' => '027616231a6147a4dd2ac057144c8642bb7729f4',
     ),
     'laravel/nexmo-notification-channel' => 
     array (
@@ -461,6 +470,15 @@
       array (
       ),
       'reference' => '3b9dff8aaf7323590c1d2e443db701eb1f9aa0d3',
+    ),
+    'maximebf/debugbar' => 
+    array (
+      'pretty_version' => 'v1.15.1',
+      'version' => '1.15.1.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '6c4277f6117e4864966c9cb58fb835cee8c74a1e',
     ),
     'mockery/mockery' => 
     array (
