@@ -29,7 +29,7 @@ private static $installed = array (
     'aliases' => 
     array (
     ),
-    'reference' => '027616231a6147a4dd2ac057144c8642bb7729f4',
+    'reference' => '44366dcaabf02f069e46a4b4a33cb4a58c8cafd3',
     'name' => 'laravel/laravel',
   ),
   'versions' => 
@@ -388,6 +388,15 @@ private static $installed = array (
         0 => 'v5.7.29',
       ),
     ),
+    'intervention/image' => 
+    array (
+      'pretty_version' => '2.5.1',
+      'version' => '2.5.1.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => 'abbf18d5ab8367f96b3205ca3c89fb2fa598c69e',
+    ),
     'jakub-onderka/php-console-color' => 
     array (
       'pretty_version' => 'v0.2',
@@ -438,7 +447,7 @@ private static $installed = array (
       'aliases' => 
       array (
       ),
-      'reference' => '027616231a6147a4dd2ac057144c8642bb7729f4',
+      'reference' => '44366dcaabf02f069e46a4b4a33cb4a58c8cafd3',
     ),
     'laravel/nexmo-notification-channel' => 
     array (
@@ -485,6 +494,15 @@ private static $installed = array (
       ),
       'reference' => '9be3b16c877d477357c015cec057548cf9b2a14a',
     ),
+    'league/glide' => 
+    array (
+      'pretty_version' => '1.7.0',
+      'version' => '1.7.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => 'ae5e26700573cb678919d28e425a8b87bc71c546',
+    ),
     'league/mime-type-detection' => 
     array (
       'pretty_version' => '1.7.0',
@@ -493,6 +511,15 @@ private static $installed = array (
       array (
       ),
       'reference' => '3b9dff8aaf7323590c1d2e443db701eb1f9aa0d3',
+    ),
+    'maennchen/zipstream-php' => 
+    array (
+      'pretty_version' => 'v0.5.2',
+      'version' => '0.5.2.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '95922b6324955974675fd4923f987faa598408af',
     ),
     'maximebf/debugbar' => 
     array (
@@ -952,6 +979,51 @@ private static $installed = array (
       array (
       ),
       'reference' => '99732be0ddb3361e16ad77b68ba41efc8e979019',
+    ),
+    'spatie/image' => 
+    array (
+      'pretty_version' => '1.10.2',
+      'version' => '1.10.2.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '12662673fbe649bffcd3a24188a404dc31fa118c',
+    ),
+    'spatie/image-optimizer' => 
+    array (
+      'pretty_version' => '1.3.2',
+      'version' => '1.3.2.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '6aa170eb292758553d332efee5e0c3977341080c',
+    ),
+    'spatie/laravel-medialibrary' => 
+    array (
+      'pretty_version' => '7.5.0',
+      'version' => '7.5.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '5f980f3c2287fe9bd387ac46401972e0bc730bc6',
+    ),
+    'spatie/pdf-to-image' => 
+    array (
+      'pretty_version' => '1.2.2',
+      'version' => '1.2.2.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '9a5cb264a99e87e010c65d4ece03b51f821d55bd',
+    ),
+    'spatie/temporary-directory' => 
+    array (
+      'pretty_version' => '1.3.0',
+      'version' => '1.3.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => 'f517729b3793bca58f847c5fd383ec16f03ffec6',
     ),
     'swiftmailer/swiftmailer' => 
     array (
