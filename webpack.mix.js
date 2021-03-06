@@ -17,7 +17,7 @@ mix.sass('resources/sass/app.scss', 'public/css/')
 
    .styles([
       'resources/css/custom.css',
-   ], 'public/css');
+   ], 'public/css/all.css');
 
    .scripts([
       'resource/js/app.js',
